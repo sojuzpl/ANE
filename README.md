@@ -8,3 +8,6 @@ Lista zmienionych plików:
 3. foundation.css
 4. home_1.html
 5. framepagesub_login_1.html
+
+
+Właściwe pliki znajdują się na serwerze (folder udostępniony dla SOJUZa).
