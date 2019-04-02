@@ -1,3 +1,6 @@
+[-> powrót do spisu treści](README.md)
+---
+
 ## framepagesub_1.html
 
 linia: 22 -> zmieniona klasa z '_wrap row_' na '_baner-row_'
