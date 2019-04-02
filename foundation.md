@@ -1,3 +1,6 @@
+[-> powrót do spisu treści](README.md)
+---
+
 ## foundation.css
 
 linia: 385 -> zmiana koloru tekstu na:
