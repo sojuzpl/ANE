@@ -1,3 +1,5 @@
+[index](README.md)
+
 ## style_1.css
 
 linia: 267 -> zmieniona klasa 'top_header' na:
