@@ -1,4 +1,5 @@
-[index](README.md)
+[-> powrót do spisu treści](README.md)
+---
 
 ## style_1.css
 
